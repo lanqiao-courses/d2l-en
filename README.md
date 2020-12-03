@@ -1,7 +1,8 @@
 # 动手学深度学习 Dive into Deep Learning
 
-课程改编自 [Dive into Deep Learning 开源项目](https://github.com/d2l-ai/d2l-en)，该项目使用 [CC BY-SA 4.0](https://github.com/d2l-ai/d2l-en/blob/master/LICENSE) 协议分发。在原 LICENSE 的许可范围内，我们对原英文题目内容进行了编译以便于理解，同时修改了部分解题和单元测试代码以适配实验楼在线环境。改编之后的 Jupyter Notebook 源文件存放于开源仓库：
-https://github.com/lanqiao-courses/d2l-en/tree/master/2777
+- https://www.lanqiao.cn/courses/2777
+
+课程改编自 [Dive into Deep Learning 开源项目](https://github.com/d2l-ai/d2l-en)，该项目使用 [CC BY-SA 4.0](https://github.com/d2l-ai/d2l-en/blob/master/LICENSE) 协议分发。在原 LICENSE 的许可范围内，我们修改了部分代码以适配实验楼在线环境。
 
 <details>
 <summary>原内容</summary>
