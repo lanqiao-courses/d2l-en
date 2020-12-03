@@ -1,5 +1,11 @@
-# Dive into Deep Learning (D2L.ai)
+# 动手学深度学习 Dive into Deep Learning
 
+课程改编自 [Dive into Deep Learning 开源项目](https://github.com/d2l-ai/d2l-en)，该项目使用 [CC BY-SA 4.0](https://github.com/d2l-ai/d2l-en/blob/master/LICENSE) 协议分发。在原 LICENSE 的许可范围内，我们对原英文题目内容进行了编译以便于理解，同时修改了部分解题和单元测试代码以适配实验楼在线环境。改编之后的 Jupyter Notebook 源文件存放于开源仓库：
+https://github.com/lanqiao-courses/d2l-en/tree/master/2777
+
+<details>
+<summary>原内容</summary>
+  
 [![Build Status](http://ci.d2l.ai/job/d2l-en/job/master/badge/icon)](http://ci.d2l.ai/job/d2l-en/job/master/)
 
 [Book website](https://d2l.ai/) | [STAT 157 Course at UC Berkeley, Spring 2019](http://courses.d2l.ai/berkeley-stat-157/index.html) | Latest version: v0.15.1
@@ -64,3 +70,4 @@ This open source book is made available under the Creative Commons Attribution-S
 The sample and reference code within this open source book is made available under a modified MIT license. See the [LICENSE-SAMPLECODE](LICENSE-SAMPLECODE) file.
 
 [Chinese version](https://github.com/d2l-ai/d2l-zh) | [Discuss and report issues](https://discuss.d2l.ai/) | [Code of conduct](CODE_OF_CONDUCT.md) | [Other Information](INFO.md)
+</details>
